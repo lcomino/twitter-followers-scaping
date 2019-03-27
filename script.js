@@ -17,5 +17,3 @@ const jsonUsers = () => Array.prototype.reduce.call(users(), (acc, user) => {
   acc.push(obj)
   return acc
 }, [])
-
-console.log(JSON.stringify(jsonUsers()))
