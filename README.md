@@ -2,3 +2,4 @@
 * Run on google chrome console.
 * Don't work on new twitter interface.
 
+![Example working](https://raw.githubusercontent.com/lcomino/twitter-followers-scaping/master/example.gif)
